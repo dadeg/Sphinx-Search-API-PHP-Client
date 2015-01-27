@@ -1,8 +1,8 @@
 {
-    "name": "neutron/sphinxsearch-api",
+    "name": "dadeg/sphinxsearch-api",
     "description": "SphinxSearch PHP API",
     "require": {
-        "php": ">=4"
+        "php": ">=5.3"
     },
     "license": "GPL",
     "type": "library",
